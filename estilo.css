@@ -1,0 +1,29 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+.linha {
+    display: flex;
+    width: 25%;
+    height: 100%;
+
+}
+
+.vermelho{
+    width: 20%;
+    height: 100px;
+    background-color: red;
+}
+
+.verde{
+    width: 20%;
+    height: 100px;
+    background-color: green;
+}
+
+.azul{
+    width: 20%;
+    height: 100px;
+    background-color: blue;
+}
