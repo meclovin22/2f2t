@@ -1,29 +1,19 @@
 *{
-margin: 0;
-padding: 0;
+    margin: 0;
+    padding: 0;
 }
-
-.linha {
+.caixa{
+    width: 100%;
+    height: 800px;
+    background-color: rgb(20, 163, 56);
     display: flex;
-    width: 25%;
-    height: 100%;
-
+    justify-content:center ;
+    align-items: center;
 }
-
-.vermelho{
-    width: 20%;
-    height: 100px;
-    background-color: red;
+.redondo{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: rgb(150, 47, 110);
 }
-
-.verde{
-    width: 20%;
-    height: 100px;
-    background-color: green;
-}
-
-.azul{
-    width: 20%;
-    height: 100px;
-    background-color: blue;
-}
+ 
