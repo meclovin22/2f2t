@@ -1,19 +1,18 @@
 *{
-    margin: 0;
+    margin: o;
     padding: 0;
 }
 .caixa{
     width: 100%;
-    height: 800px;
-    background-color: rgb(20, 163, 56);
+    height: 500px;
+    background-color:blueviolet;
     display: flex;
-    justify-content:center ;
+    justify-content: center;
     align-items: center;
 }
 .redondo{
     width: 200px;
     height: 200px;
     border-radius: 50%;
-    background-color: rgb(150, 47, 110);
+    background-color: red;
 }
- 
